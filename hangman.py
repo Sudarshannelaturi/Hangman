@@ -19,6 +19,7 @@ WORDS = {
         ("DOLPHIN", "Intelligent sea mammal"),
         ("OCTOPUS", "Has eight arms"),
         ("PORCUPINE", "Covered in sharp quills"),
+        ("LION","Has got a Maine and is also known as King of Jungle")
     ],
     "Countries": [
         ("AUSTRALIA", "Home of the kangaroo"),

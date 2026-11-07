@@ -30,6 +30,8 @@ WORDS = {
         ("EGYPT", "Home of the pyramids of Giza"),
         ("NORWAY", "Known for its fjords"),
         ("MEXICO", "Birthplace of tacos"),
+        ("TANZANIA","Home of the Tribes"),
+        ("ENGLAND","The looting Country")
     ],
     "Fruits": [
         ("BANANA", "Long, yellow and curved"),
@@ -53,7 +55,7 @@ WORDS = {
     ],
 }
 
-MAX_WRONG = 6
+MAX_WRONG = 7
 
 # --- Colours ---
 BG = "#1e1e2e"
